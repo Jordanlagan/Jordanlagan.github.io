@@ -287,13 +287,13 @@ ul li {
 .inner-description p {
 	color: #3d3d3d;
 	font-size: 18px;
-	line-height: 33px;
+	line-height: 30px;
 	font-weight: 400;
 }
 .inner-description img
 {
-width:150px;
-height:150px;
+width:300px;
+height:300px;
 border-radius:50%;
 }
 
