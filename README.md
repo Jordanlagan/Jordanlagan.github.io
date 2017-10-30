@@ -5,4 +5,4 @@ My Personal Portfolio
 
 I'm hosting my personal portfolio website on Github. 
 
-The website can be viewed at <a href="www.jordanlagan.com">this</a> link.
+The website can be viewed at <a href="http://www.jordanlagan.com" target="_blank">this</a> link.
