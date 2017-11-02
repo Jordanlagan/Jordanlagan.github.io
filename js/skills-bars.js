@@ -3,5 +3,8 @@ jQuery(document).ready(function(){
 		jQuery(this).find('.skillbar-bar').animate({
 			width:jQuery(this).attr('data-percent')
 		},1000);
+		jQuery(this).find('.skillbar-shadow').animate({
+			width:jQuery(this).attr('data-percent')
+		},1000);
 	});
 });
